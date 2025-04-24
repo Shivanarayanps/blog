@@ -1,0 +1,4 @@
+[submodule "shivanarayanps/public"]
+	path = shivanarayanps/public
+	url = https://github.com/Shivanarayanps/shivanarayanps.github.io.git
+	branch = main
