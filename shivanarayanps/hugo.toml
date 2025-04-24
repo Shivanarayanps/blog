@@ -1,0 +1,4 @@
+baseURL = 'https://shivanarayanps.github.io/'
+languageCode = "en-us"
+title = "ShivaNarayanPS Blog"
+theme="hugo-bearblog"
